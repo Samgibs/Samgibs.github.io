@@ -12,15 +12,21 @@ I’m a passionate and experienced Fullstack Developer based in Nairobi, Kenya. 
 
 🛠️ Skills & Technologies
 -Frontend: React, HTML, CSS, JavaScript, Responsive Design, Frameworks (React, Angular, Flutter)
+
 -Backend: Django, Ruby on Rails, Node.js, Python, RESTful APIs, SQL/NoSQL Databases
+
 -DevOps: Git, CI/CD, AWS, Docker
+
 -Tools: ERPNext, Frappe, PostgreSQL, AWS S3, Twilio, Celery, Redis
+
 -Web Security: Secure Coding Principles, Common Vulnerabilities
 
 
 💼 Professional Experience
 -Fullstack Developer at TechSavanna Technology
+
 -Systems Administrator at Avuity Technology for Business
+
 -Part-time Software Developer at Matean Company
 
 
@@ -28,5 +34,7 @@ I’m a passionate and experienced Fullstack Developer based in Nairobi, Kenya. 
 
 📈 Current Focus
 -Building scalable and efficient web applications
+
 -Mastering cloud technologies and DevOps practices
+
 -Exploring new tools and frameworks to stay ahead in the industry
